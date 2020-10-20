@@ -1,0 +1,3 @@
+include ':libLogin'
+include ':app'
+rootProject.name = "LoginComponent"
